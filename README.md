@@ -13,7 +13,7 @@ $ npm i eslint --save-dev
 Next, install `@tech-f5ve/eslint-plugin-react`:
 
 ```
-$ npm install eslint-plugin-use-dom-lint --save-dev
+$ npm install @tech-f5ve/eslint-plugin-react --save-dev
 ```
 
 ## Usage
