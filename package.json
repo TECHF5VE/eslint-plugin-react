@@ -1,6 +1,6 @@
 {
   "name": "@tech-f5ve/eslint-plugin-react",
-  "version": "1.0.2",
+  "version": "1.0.3",
   "description": "some rules for react",
   "keywords": [
     "eslint",
