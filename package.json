@@ -1,6 +1,6 @@
 {
   "name": "@tech-f5ve/eslint-plugin-react",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "some rules for react",
   "keywords": [
     "eslint",
@@ -15,7 +15,9 @@
     "test": "mocha tests --recursive"
   },
   "dependencies": {
-    "requireindex": "~1.1.0"
+    "@typescript-eslint/parser": "^3.9.1",
+    "requireindex": "~1.1.0",
+    "typescript": "^4.0.2"
   },
   "devDependencies": {
     "eslint": "^7.6.0",
