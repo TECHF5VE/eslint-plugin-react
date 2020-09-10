@@ -6,14 +6,14 @@ Some eslint rules ,if you use react ,they will be useful.
 
 You'll first need to install [ESLint](http://eslint.org):
 
-```
-$ npm i eslint --save-dev
+```brash
+$npm i eslint --save-dev
 ```
 
 Next, install `@tech-f5ve/eslint-plugin-react`:
 
-```
-$ npm install @tech-f5ve/eslint-plugin-react --save-dev
+```brash
+$npm install @tech-f5ve/eslint-plugin-react --save-dev
 ```
 
 ## Usage

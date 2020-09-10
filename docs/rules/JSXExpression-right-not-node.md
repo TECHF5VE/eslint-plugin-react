@@ -1,4 +1,4 @@
-# react 中 jsx 使用节点包裹 (JSXExpression-right-not-node)
+# JSXExpression-right-not-node
 
 When a JSXExpression's right node is not a HTML tags,the react app will collapse.
 This rule will remind if you make this mistake.
