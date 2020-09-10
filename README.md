@@ -1,6 +1,6 @@
 # @tech-f5ve/eslint-plugin-react
 
-使用节点包裹
+Some eslint rules ,if you use react ,they will be useful.
 
 ## Installation
 
